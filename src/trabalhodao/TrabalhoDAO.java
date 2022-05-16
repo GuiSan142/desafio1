@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package trabalhodao;
-
+//Cridado por Guilherme Santana
 import static controller.AdminC.iniciarADM;
 import static controller.UsuarioC.*;
 import java.sql.SQLException;
